@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(0, 0)">
+    <!-- Flecha superior / derecha -->
+    <path fill="#3B82F6" d="M 50 15 A 35 35 0 0 1 85 50 L 95 50 L 80 70 L 65 50 L 75 50 A 25 25 0 0 0 50 25 A 24.8 24.8 0 0 0 28 38 L 19 28 A 35 35 0 0 1 50 15 Z" />
+    <!-- Flecha inferior / izquierda -->
+    <path fill="#3B82F6" d="M 50 85 A 35 35 0 0 1 15 50 L 5 50 L 20 30 L 35 50 L 25 50 A 25 25 0 0 0 50 75 A 24.8 24.8 0 0 0 72 62 L 81 72 A 35 35 0 0 1 50 85 Z" />
+  </g>
+</svg>

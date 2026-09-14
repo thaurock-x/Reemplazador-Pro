@@ -55,12 +55,13 @@ Ingresa reglas compuestas por pares clave-valor separados por el signo `=`. Cada
 hola=adiós
 rojo=azul
 2024=2025
-
+```
 ---
 
 ### 🛠️ Arquitectura:
 
 flowchart TD
+
     A[Texto de Entrada] --> B{Selección de Operación}
     B -- Reemplazo Simple --> C[Escape de Caracteres / RegEx Engine]
     B -- Reemplazo Masivo --> D[Parser de Reglas por Línea 'key=value']

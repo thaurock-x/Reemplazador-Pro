@@ -74,6 +74,26 @@ flowchart TD
 
 ---
 
+## 📱 Descarga e Instalación del APK (Android)
+
+Puedes instalar la aplicación directamente en tu dispositivo Android sin pasar por la Google Play Store.
+
+### 📥 Enlaces de Descarga
+* **Última Versión:** [Descargar APK](../../releases/latest)
+* **Historial de Versiones:** [Ver todas las releases](../../releases)
+
+---
+
+### ⚙️ Instrucciones de Instalación
+
+1. **Descarga el archivo:** Toca el enlace **`Reemplazador de Texto PRO.apk`** desde tu celular dentro de la sección de Releases.
+
+2. **Permite fuentes desconocidas:** Si tu navegador te lo solicita, activa el permiso para *"Instalar aplicaciones desconocidas"* o *"Fuentes desconocidas"* en los ajustes de tu navegador.
+ 
+3. **Instalación:** Abre el archivo `.apk` descargado, pulsa en **Instalar** y ¡listo! Ya tendrás **Reemplazador de Texto PRO** instalado como App nativa en tu teléfono.
+
+---
+
 ### ​📄 Licencia:
 
 <div align="center">
